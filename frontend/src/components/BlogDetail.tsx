@@ -110,10 +110,10 @@ export const BlogDetail = ({ blog, onDelete, isDeleting = false }: BlogDetailPro
           <div className="flex flex-col sm:flex-row items-center sm:justify-between gap-4">
             <div className="flex flex-col sm:flex-row items-center gap-4 md:gap-5 text-center sm:text-left">
               <div className="w-12 h-12 md:w-16 md:h-16 rounded-2xl bg-linear-to-br from-indigo-600 to-purple-600 flex items-center justify-center text-white font-bold text-lg md:text-2xl shadow-lg shadow-indigo-500/50">
-                AM
+                NS
               </div>
               <div>
-                <p className="font-bold text-gray-900 text-base md:text-lg">Written by Arjun Mehta</p>
+                <p className="font-bold text-gray-900 text-base md:text-lg">Written by Nikhil Sharma</p>
                 <p className="text-xs md:text-sm text-gray-600 font-medium">Senior Financial Analyst</p>
               </div>
             </div>
